@@ -158,6 +158,10 @@
   url: "vivaldi.com"
   poc: "Jon von Tetzchner <jon@vivaldi.com>"
   region: "NO"
+- organization: "zeitkapsl"
+  url: "zeitkapsl.eu"
+  poc: "Peter Spiess-Knafl <peter@zeitkapsl.eu>"
+  region: AT
 
 #- organization: "XXX"
 #  url: "XXX"
